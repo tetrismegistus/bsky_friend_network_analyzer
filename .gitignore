@@ -3,6 +3,16 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+# Generated graph outputs
+*.graph.json
+*.network.json
+*.xml
+
+# Force-directed / Processing generated data
+markov_chain.xml
+
+
 # C extensions
 *.so
 
