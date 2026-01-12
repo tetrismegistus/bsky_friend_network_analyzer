@@ -12,6 +12,7 @@ __pycache__/
 # Force-directed / Processing generated data
 markov_chain.xml
 
+out/
 
 # C extensions
 *.so

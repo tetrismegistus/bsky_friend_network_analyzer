@@ -1,1219 +1,1018 @@
 {
   "aaronparnas.bsky.social": {
-    "did": "did:plc:ezxfbsdjjylaoagv5bvz7sqb",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "aclu.org": {
-    "did": "did:plc:bg5vuqejktlwjgcdsm3jyv73",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "acluindiana.bsky.social": {
-    "did": "did:plc:so7k6jgywxrrxynyekhshv6p",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "actblueorg.bsky.social": {
-    "did": "did:plc:ov44q42n7767qkj7hao4ciod",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "acyn.bsky.social": {
-    "did": "did:plc:iu4j537hox5huj4bwnwgub4z",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "adammockler.com": {
-    "did": "did:plc:q7rv2wta4qb2534kxjmbr6dm",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "adamparkhomenko.bsky.social": {
-    "did": "did:plc:ojwszrpcvhwuhl4nhwactd2y",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "alexaronson.bsky.social": {
-    "did": "did:plc:kvgkyw43vckxwoir4wr6kao3",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "aliensupershow.bsky.social": {
-    "did": "did:plc:4jw6vlvbdpqjbei7wmtxgwdn",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "altfws.altgov.info": {
-    "did": "did:plc:hzgqx5ufmknfvq25xiylw7ex",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "altnps.bsky.social": {
-    "did": "did:plc:xgiwtxbtt6xc7low5vdz7dq4",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "amtaustralia.bsky.social": {
-    "did": "did:plc:vbzqt3us6xin3lnwvgg27cvx",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "amyg7.bsky.social": {
-    "did": "did:plc:ntwkikqbazthnkxiijiytbca",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "anarchswoborders.bsky.social": {
-    "did": "did:plc:gjkg5iboilo7mfk336j7feqg",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "annabower.bsky.social": {
-    "did": "did:plc:t4x2ruk2qmob2b2cx55h4v7r",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "aoc.bsky.social": {
-    "did": "did:plc:p7gxyfr5vii5ntpwo7f6dhe2",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "apstylebook.com": {
-    "did": "did:plc:ibirb34knu25hwlshx3negnl",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "artistdonna.bsky.social": {
-    "did": "did:plc:pk6dsvzerdbhqgzjtsxefapd",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "askdinadoll.bsky.social": {
-    "did": "did:plc:yxzaprsh57oqsikan2562jt2",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "attyzachmyers.bsky.social": {
-    "did": "did:plc:gbmp3ppdil5vtnt6ftohekqy",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "barthdems.bsky.social": {
-    "did": "did:plc:z7xbyvzlylijxpjmztog4fxw",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "betoorourke.bsky.social": {
-    "did": "did:plc:6ublmumxa4xiql5w5z3m7bxl",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "bhean-teine.bsky.social": {
-    "did": "did:plc:sypcq7mtyy3mrvk3ohu4czhi",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "bigbadbiker1960.bsky.social": {
-    "did": "did:plc:oln42algadzvuvhxgdlr36qs",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "bluebird4us.bsky.social": {
-    "did": "did:plc:uqyv3jv3ivxd36uh2id64yso",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "bluesterb.bsky.social": {
-    "did": "did:plc:iv77vo62rn5s7ery4crfwrno",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "bmeiselas.bsky.social": {
-    "did": "did:plc:evqpzdjx7lzdpc3vp5rxwpkk",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "bodhiboo.bsky.social": {
-    "did": "did:plc:tcfwvoksglgzzttzqlqpwtky",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "bodymechanics.bsky.social": {
-    "did": "did:plc:gzvvuuvyjqyozqnpqrgivbsf",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "bostonbrian.com": {
-    "did": "did:plc:kccabog4vhcgbl575agcvqql",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "brcremer.bsky.social": {
-    "did": "did:plc:rkp75ooy5xkc4kqqeetispbm",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "bsky.app": {
-    "did": "did:plc:z72i7hdynmk6r22z27h6tvur",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "buffer.com": {
-    "did": "did:plc:knoepjiqknech5vqiht4bqu6",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "carolekingofficial.bsky.social": {
-    "did": "did:plc:of4w4v4m2tzxis27n4plolez",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "carson.house.gov": {
-    "did": "did:plc:eo7nsjwwszwn7k7smt7hhuy7",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "centralindsa.bsky.social": {
-    "did": "did:plc:r2ybabenc3jm5ycdlnlqcvxj",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "coachdspeaks.bsky.social": {
-    "did": "did:plc:t73iezyuel33v2pejuzskcsb",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "colinjeongmcknight.bsky.social": {
-    "did": "did:plc:4lyo52nwtjarqfid7k3uv3dq",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "corinnemsb.bsky.social": {
-    "did": "did:plc:uiydptcqyze3ns5zry4gsgto",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "courtacctability.bsky.social": {
-    "did": "did:plc:sv545fanhiepxspocaqq5o55",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "cre8tve1.bsky.social": {
-    "did": "did:plc:vraay6yk7iyn35wohhjm6ret",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "crockett.house.gov": {
-    "did": "did:plc:tax3e7cjn3dzxpgfjslqq56y",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "davearonberg.bsky.social": {
-    "did": "did:plc:wzoqkldanolzf7jqm4khis6e",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "daveberthiaumephoto.com": {
-    "did": "did:plc:3bw7r7gdz72fwsvfns32ph3k",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "democratrolodex.org": {
-    "did": "did:plc:grqlbifck3l5dypbst2kq7qj",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "detentionwatchnetwork.org": {
-    "did": "did:plc:n3wuvtspwd4trvrhsexirerk",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "dgl101.bsky.social": {
-    "did": "did:plc:whctapobltu5bafqqplxy5de",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "digny.bsky.social": {
-    "did": "did:plc:moupq3kq7mxcmthqmlt6d33c",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "djneu.bsky.social": {
-    "did": "did:plc:ugjsqwezxczal3ljwug3577k",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "dndbeyond.com": {
-    "did": "did:plc:zw55qqojhklbydnc66gzg2bt",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "drhaydeebrown.bsky.social": {
-    "did": "did:plc:kipq2kgadc7om4aa7aqeo4mk",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "duckworth.senate.gov": {
-    "did": "did:plc:uk62jqyggwt4hyhrnzka34wm",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "dungeoncrawlercarl.bsky.social": {
-    "did": "did:plc:klnu5lk4222ghpjryp7n3kd4",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "durelleth.bsky.social": {
-    "did": "did:plc:kwkzri4dbrthx5x22meioz7w",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "emilyhopkins.bsky.social": {
-    "did": "did:plc:kk2a54fcplihszfwvzqprfwn",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "everydayactivist.bsky.social": {
-    "did": "did:plc:jtck4zif4zcokio2blrxvrq2",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "ezralevin.bsky.social": {
-    "did": "did:plc:ryjmqqquvltpslijw3zl4fln",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "fairhousingin.bsky.social": {
-    "did": "did:plc:5sh6eeeffvu5ahbcp7sw7n6o",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "fiveminutenews.bsky.social": {
-    "did": "did:plc:j476ec3cg5gnc7nnp36excaj",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "fpwellman.bsky.social": {
-    "did": "did:plc:yly3aulwiwaboatf2v2pjkhc",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "ftm.nl": {
-    "did": "did:plc:zrqb66snqhomf2tvh3l5czmi",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "fuzzygroup.bsky.social": {
-    "did": "did:plc:nlxvsxa7cy65f7xngmqadjgv",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "garrykasparov.bsky.social": {
-    "did": "did:plc:xgy5sfmxjpqfamiqskpj3q74",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "georgetakei.bsky.social": {
-    "did": "did:plc:y4zs4cabaezzwx3bz2e5nnj2",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "govandybeshear.bsky.social": {
-    "did": "did:plc:ktma7dsrax5mt3nxruplp3pq",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "govpritzker.illinois.gov": {
-    "did": "did:plc:khkaorxvl6o5xvmzmuxn2rl5",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "harrylitman.bsky.social": {
-    "did": "did:plc:czjt3ibnudi7s2skpu3geam5",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "hcrichardson.bsky.social": {
-    "did": "did:plc:wpj5z24vsmik5ocqjybwjpso",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "healwell.bsky.social": {
-    "did": "did:plc:ept6ck32aenlgvo6o34qnkkb",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "hebrewhoosier.bsky.social": {
-    "did": "did:plc:5vpqclvse4cynuuxfer3zdx5",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "herrdoktorevil.bsky.social": {
-    "did": "did:plc:j2mdqgdexn7oifepzk3mvuzj",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "hollidurhamdeloe.bsky.social": {
-    "did": "did:plc:fciehgofc7ofnixfv77q5zea",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "hoosier-jezebel.bsky.social": {
-    "did": "did:plc:pogwjblvena36gfxnpwmjiel",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "hoosierprogressive.bsky.social": {
-    "did": "did:plc:otppdyd3fa6w5wx5rjjk77bc",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "iamgabesanchez.bsky.social": {
-    "did": "did:plc:koyvurcw3ymwotjj26xnke33",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "indems.bsky.social": {
-    "did": "did:plc:2oo46priiwu7pjf7l7ihc7p6",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "indianacapitalchronicle.com": {
-    "did": "did:plc:hthpuekdkstlafes23drubcj",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "indianacitizen.org": {
-    "did": "did:plc:rldmd3gaddnhr2qgnhfcv4o5",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "indiananastywomen.bsky.social": {
-    "did": "did:plc:3f7yaprrzcbhjjibcqd244de",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "indivisible.org": {
-    "did": "did:plc:rrfwruhud4ovela3oe6isre5",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "indy50501.bsky.social": {
-    "did": "did:plc:zlsl3fz7yrm74ipz2dbilyge",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "inhousedemocrats.bsky.social": {
-    "did": "did:plc:jme2k32yl3iklxtcn567k6zs",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "irwinglenn.bsky.social": {
-    "did": "did:plc:36co6mfy6zekvmgl4wusje7c",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "jacksoncdp-in.bsky.social": {
-    "did": "did:plc:hn6akuvycgld7rdos6o4cmtm",
     "following": [
-      "detentionwatchnetwork.org",
-      "indianacitizen.org",
-      "fairhousingin.bsky.social",
-      "centralindsa.bsky.social",
-      "hebrewhoosier.bsky.social",
-      "carson.house.gov",
-      "indianacapitalchronicle.com",
-      "attyzachmyers.bsky.social",
-      "bhean-teine.bsky.social",
-      "stumora.bsky.social",
-      "betoorourke.bsky.social",
-      "inhousedemocrats.bsky.social",
-      "madvoters.bsky.social",
-      "keshiajanay.bsky.social",
-      "opalovesmimi.bsky.social",
-      "nairadc.bsky.social",
-      "wthrcom.bsky.social",
-      "wishtv.com",
-      "woodenstares.bsky.social",
-      "jasoncritchlow.bsky.social",
       "amyg7.bsky.social",
+      "attyzachmyers.bsky.social",
+      "barthdems.bsky.social",
+      "betoorourke.bsky.social",
+      "bhean-teine.bsky.social",
+      "bsky.app",
+      "carson.house.gov",
+      "centralindsa.bsky.social",
+      "detentionwatchnetwork.org",
+      "fairhousingin.bsky.social",
+      "hebrewhoosier.bsky.social",
+      "indems.bsky.social",
+      "indianacapitalchronicle.com",
+      "indianacitizen.org",
+      "inhousedemocrats.bsky.social",
+      "jasoncritchlow.bsky.social",
+      "keshiajanay.bsky.social",
+      "madvoters.bsky.social",
       "marcelias.bsky.social",
       "mimicrochets.bsky.social",
-      "barthdems.bsky.social",
-      "indems.bsky.social",
-      "bsky.app"
+      "nairadc.bsky.social",
+      "opalovesmimi.bsky.social",
+      "stumora.bsky.social",
+      "wishtv.com",
+      "woodenstares.bsky.social",
+      "wthrcom.bsky.social"
     ],
     "linked_from": "taelar.bsky.social"
   },
   "jasoncritchlow.bsky.social": {
-    "did": "did:plc:azrbis7nzntcz753eulrmxxg",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "jasonkander.bsky.social": {
-    "did": "did:plc:k5i4eygyurdzxjvmjp3vmlvy",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "jeremy8.bsky.social": {
-    "did": "did:plc:dmarmwjewgoid3wmc5khq7vq",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "joncooper-us.bsky.social": {
-    "did": "did:plc:7qqkq2zdwq4j5jingukgtuky",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "junesongbird.bsky.social": {
-    "did": "did:plc:zd2s4sg7nh5ajhuoodmgajzg",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "katiephang.bsky.social": {
-    "did": "did:plc:2hltimymy65zl5ba7ifsq3qr",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "keeptroyblue.bsky.social": {
-    "did": "did:plc:6bisn3yu4tw5b5l3h6gywduj",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "keithedwards.bsky.social": {
-    "did": "did:plc:dykwgeyxcryxbpbyw7tw7lod",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "kellyjeanrebar.bsky.social": {
-    "did": "did:plc:awnsjnha3guqfullhvvbzv2a",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "keshiajanay.bsky.social": {
-    "did": "did:plc:ymwfjl5v7fge626vauomebwy",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "kfa-legal.bsky.social": {
-    "did": "did:plc:ktj3zg4pkrmzoufkhfxga27m",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "kmpanthagani.bsky.social": {
-    "did": "did:plc:n6h2dicfi7ryzen63rodkpdb",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "knitting.ytch.online": {
-    "did": "did:plc:qqis5n4kib7u7kgz3bnxjc3z",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "krystalball.bsky.social": {
-    "did": "did:plc:tw4gk2t3x2f6b5qdww2y6vtx",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "kylekulinskishow.bsky.social": {
-    "did": "did:plc:3siyhmti5shsnhhnk3qjz6cp",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "kyleshivers.bsky.social": {
-    "did": "did:plc:cvrtxdlt6ygzr5fpehxmoemn",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "leahgreenberg.bsky.social": {
-    "did": "did:plc:6waxgers6k753hgsmh2prmv7",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "leavingmaga.org": {
-    "did": "did:plc:airuy5hrfnejfvw6uxqhgztq",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "legalafmtn.bsky.social": {
-    "did": "did:plc:ll7aqx7bjx4uovipbtsreivr",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "lynnf.bsky.social": {
-    "did": "did:plc:jwdavettwqqky4whcgykvzm6",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "madhouser.altgov.info": {
-    "did": "did:plc:oo2htoohxykuj25p5aktmw2b",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "madvoters.bsky.social": {
-    "did": "did:plc:riw66ptc5mjzh5wko5w7hs7r",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "majorityreport.bsky.social": {
-    "did": "did:plc:zctaruzdzb4ji45q7uafkgkt",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "mam4music.bsky.social": {
-    "did": "did:plc:76bwo4fxtijwl67pl52r7men",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "marcelias.bsky.social": {
-    "did": "did:plc:pjiafkey2cokiupsxpswqlk7",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "mariana057.bsky.social": {
-    "did": "did:plc:4pzws4okjcvxhune4g634z7i",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "martinanav.bsky.social": {
-    "did": "did:plc:thju2em22tsthzeipeefwjop",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "massagenerd.bsky.social": {
-    "did": "did:plc:jvgustjo4zrf43efexr45jxa",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "mehdirhasan.bsky.social": {
-    "did": "did:plc:j53tav4pdcpfxyx2gcfr5fhb",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "meidascanada.ca": {
-    "did": "did:plc:xz62urcnt27mgql3t3xnhphv",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "meidasjordy.bsky.social": {
-    "did": "did:plc:msacoiwclfvbgpiww6hzji5d",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "meidaskiesha.bsky.social": {
-    "did": "did:plc:fdyqpon2wmdt7vrndk7rsk4p",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "meidastouch.com": {
-    "did": "did:plc:xjc7mkotpenvhh6ffewkdpyn",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "meiselasb.bsky.social": {
-    "did": "did:plc:foafuj4pniinyhiev4djp52r",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "michaelcohen212.bsky.social": {
-    "did": "did:plc:cmnu4mteq4sg6pp53lonyvau",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "michaelfanone.bsky.social": {
-    "did": "did:plc:za7tfssovxps5awwix7uvxvj",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "mikesacks.bsky.social": {
-    "did": "did:plc:beirch5u3d3ybvuct27mtyxd",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "mimicrochets.bsky.social": {
-    "did": "did:plc:rlh2bd5gckieaicjo742jocb",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "mooter55.bsky.social": {
-    "did": "did:plc:i2ilzvmk52l3dvbuqvoyazwu",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "mop-fautneddy.bsky.social": {
-    "did": "did:plc:gsdkigd7xkip6syoz2g222ib",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "moveon.org": {
-    "did": "did:plc:z6dj45iqfftjbhvlhfnswc3y",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "mspopok.bsky.social": {
-    "did": "did:plc:couh5elcpnp7c3r6l4u22xic",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "mtfoundation.bsky.social": {
-    "did": "did:plc:jffg7t2ndlhrqorznt3e4ehp",
     "following": [
-      "sharialdrich.bsky.social",
-      "bodymechanics.bsky.social",
-      "massagenerd.bsky.social",
-      "sandyfritz.bsky.social",
-      "xjeign.bsky.social",
-      "rawerner.bsky.social",
       "amtaustralia.bsky.social",
+      "bodymechanics.bsky.social",
+      "bsky.app",
       "healwell.bsky.social",
+      "massagenerd.bsky.social",
+      "rawerner.bsky.social",
       "rmtbc.bsky.social",
+      "sandyfritz.bsky.social",
+      "sharialdrich.bsky.social",
       "timherb.bsky.social",
-      "bsky.app"
+      "xjeign.bsky.social"
     ],
     "linked_from": "taelar.bsky.social"
   },
   "nairadc.bsky.social": {
-    "did": "did:plc:tbuddeg3eiscvakhk5ov5bby",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "natasha02783807.bsky.social": {
-    "did": "did:plc:uchrcyynswmdwhnifogjwgsf",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "nicsigni.bsky.social": {
-    "did": "did:plc:pyqovhoahwfatea65eghtn3k",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "npr.org": {
-    "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "opalovesmimi.bsky.social": {
-    "did": "did:plc:cpulngpjf3cg3opvisynry4f",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "opensecrets.org": {
-    "did": "did:plc:tqsxvuwkgoynvu3svvkbgi6g",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "oroburroughs.bsky.social": {
-    "did": "did:plc:jk7l3vpmfzsg6dx5ilqualso",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "ouijagirl.bsky.social": {
-    "did": "did:plc:alzb5yrv5rdkylkisnz3ieak",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "paleofuture.bsky.social": {
-    "did": "did:plc:4usmserhjqkvhldgedfjb3jw",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "patriottakes.bsky.social": {
-    "did": "did:plc:7upoypvlxudsiv4pzbi5jtwf",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "pestilence4all.bsky.social": {
-    "did": "did:plc:2ekyevgqsdkcdnkmju42sug6",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "petebuttigieg.bsky.social": {
-    "did": "did:plc:2q2hs5o42jhbd23pp6lkiauh",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "phunkinpunk.bsky.social": {
-    "did": "did:plc:5vpacsib36g7ueaz7nkvoomk",
     "following": [
-      "knitting.ytch.online",
-      "willhatesfascists.bsky.social",
-      "smashit.bsky.social",
-      "textkittycat.bsky.social",
-      "tamranger.bsky.social",
-      "dungeoncrawlercarl.bsky.social",
-      "artistdonna.bsky.social",
-      "vermontgmg.bsky.social",
-      "ultra-happy-dude.bsky.social",
-      "mop-fautneddy.bsky.social",
-      "resistancerangers.altgov.info",
-      "michaelfanone.bsky.social",
-      "durelleth.bsky.social",
-      "wfiuwtiunews.bsky.social",
-      "hoosierprogressive.bsky.social",
-      "emilyhopkins.bsky.social",
-      "democratrolodex.org",
-      "bluesterb.bsky.social",
-      "mam4music.bsky.social",
+      "altfws.altgov.info",
       "annabower.bsky.social",
-      "therealdig.bsky.social",
-      "mooter55.bsky.social",
-      "rosegarden54.bsky.social",
-      "natasha02783807.bsky.social",
-      "shieldaig.bsky.social",
+      "apstylebook.com",
+      "artistdonna.bsky.social",
+      "bigbadbiker1960.bsky.social",
+      "bluebird4us.bsky.social",
+      "bluesterb.bsky.social",
+      "bodhiboo.bsky.social",
+      "carolekingofficial.bsky.social",
+      "colinjeongmcknight.bsky.social",
+      "corinnemsb.bsky.social",
       "cre8tve1.bsky.social",
       "daveberthiaumephoto.com",
-      "susanreed.bsky.social",
-      "garrykasparov.bsky.social",
-      "bigbadbiker1960.bsky.social",
+      "democratrolodex.org",
       "digny.bsky.social",
-      "hollidurhamdeloe.bsky.social",
-      "rjk9.bsky.social",
-      "womensartbluesky.bsky.social",
-      "bodhiboo.bsky.social",
-      "irwinglenn.bsky.social",
-      "herrdoktorevil.bsky.social",
-      "apstylebook.com",
       "djneu.bsky.social",
-      "ryannosaurus.bsky.social",
-      "bluebird4us.bsky.social",
+      "dndbeyond.com",
+      "dungeoncrawlercarl.bsky.social",
+      "durelleth.bsky.social",
+      "emilyhopkins.bsky.social",
+      "garrykasparov.bsky.social",
+      "herrdoktorevil.bsky.social",
+      "hollidurhamdeloe.bsky.social",
+      "hoosier-jezebel.bsky.social",
+      "hoosierprogressive.bsky.social",
+      "irwinglenn.bsky.social",
+      "junesongbird.bsky.social",
+      "kellyjeanrebar.bsky.social",
+      "kmpanthagani.bsky.social",
+      "knitting.ytch.online",
       "madhouser.altgov.info",
+      "mam4music.bsky.social",
+      "mariana057.bsky.social",
+      "martinanav.bsky.social",
+      "michaelfanone.bsky.social",
+      "mooter55.bsky.social",
+      "mop-fautneddy.bsky.social",
+      "natasha02783807.bsky.social",
       "nicsigni.bsky.social",
       "paleofuture.bsky.social",
       "pestilence4all.bsky.social",
-      "who-is-this-is.bsky.social",
-      "dndbeyond.com",
       "realgdt.bsky.social",
-      "kellyjeanrebar.bsky.social",
-      "martinanav.bsky.social",
-      "altfws.altgov.info",
-      "ylepidemiologist.bsky.social",
-      "roguenoaa.altgov.info",
-      "kmpanthagani.bsky.social",
-      "junesongbird.bsky.social",
-      "tazornissen.bsky.social",
-      "mariana057.bsky.social",
-      "hoosier-jezebel.bsky.social",
-      "softtail65.bsky.social",
       "realgregjack.bsky.social",
-      "colinjeongmcknight.bsky.social",
-      "carolekingofficial.bsky.social",
-      "corinnemsb.bsky.social"
+      "resistancerangers.altgov.info",
+      "rjk9.bsky.social",
+      "roguenoaa.altgov.info",
+      "rosegarden54.bsky.social",
+      "ryannosaurus.bsky.social",
+      "shieldaig.bsky.social",
+      "smashit.bsky.social",
+      "softtail65.bsky.social",
+      "susanreed.bsky.social",
+      "tamranger.bsky.social",
+      "tazornissen.bsky.social",
+      "textkittycat.bsky.social",
+      "therealdig.bsky.social",
+      "ultra-happy-dude.bsky.social",
+      "vermontgmg.bsky.social",
+      "wfiuwtiunews.bsky.social",
+      "who-is-this-is.bsky.social",
+      "willhatesfascists.bsky.social",
+      "womensartbluesky.bsky.social",
+      "ylepidemiologist.bsky.social"
     ],
     "linked_from": "taelar.bsky.social"
   },
   "polialert.bsky.social": {
-    "did": "did:plc:pdewjv3jx5tbdvtrzdtiiqmg",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "politicsgirl.bsky.social": {
-    "did": "did:plc:ca5og5dzdlmoedpdbpbtkkeo",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "pollitify.bsky.social": {
-    "did": "did:plc:k5p7lbhv3nzd7ekz4e6qv5qf",
     "following": [
-      "anarchswoborders.bsky.social",
-      "tempestori.bsky.social",
-      "lynnf.bsky.social",
-      "buffer.com",
-      "meidasjordy.bsky.social",
-      "bmeiselas.bsky.social",
-      "meiselasb.bsky.social",
-      "adammockler.com",
-      "tnbrando.bsky.social",
-      "ronfilipkowski.bsky.social",
-      "keeptroyblue.bsky.social",
-      "thekenharbaughshow.bsky.social",
-      "adamparkhomenko.bsky.social",
-      "kfa-legal.bsky.social",
-      "jasonkander.bsky.social",
-      "patriottakes.bsky.social",
-      "jeremy8.bsky.social",
-      "fpwellman.bsky.social",
       "aaronparnas.bsky.social",
-      "wright.wiki",
-      "michaelcohen212.bsky.social",
-      "keithedwards.bsky.social",
-      "suricrowe.bsky.social",
-      "iamgabesanchez.bsky.social",
-      "bostonbrian.com",
-      "realtexaspaul.com",
-      "theanthonydavis.bsky.social",
-      "fiveminutenews.bsky.social",
-      "mspopok.bsky.social",
-      "salty.bsky.social",
-      "shanlonwu.com",
-      "kyleshivers.bsky.social",
-      "askdinadoll.bsky.social",
-      "harrylitman.bsky.social",
-      "coachdspeaks.bsky.social",
-      "sonyasloanmd.bsky.social",
-      "drhaydeebrown.bsky.social",
-      "aliensupershow.bsky.social",
-      "davearonberg.bsky.social",
-      "leavingmaga.org",
-      "politicsgirl.bsky.social",
-      "polialert.bsky.social",
-      "thelisagraves.bsky.social",
-      "alexaronson.bsky.social",
-      "meidaskiesha.bsky.social",
-      "courtacctability.bsky.social",
-      "mikesacks.bsky.social",
-      "legalafmtn.bsky.social",
-      "vinguptamd.bsky.social",
-      "katiephang.bsky.social",
-      "meidascanada.ca",
-      "unicornriot.bsky.social",
-      "zeteo.com",
-      "mehdirhasan.bsky.social",
-      "taelar.bsky.social",
-      "fuzzygroup.bsky.social",
-      "pollitifydev.bsky.social",
+      "actblueorg.bsky.social",
       "acyn.bsky.social",
-      "majorityreport.bsky.social",
+      "adammockler.com",
+      "adamparkhomenko.bsky.social",
+      "alexaronson.bsky.social",
+      "aliensupershow.bsky.social",
       "altnps.bsky.social",
+      "anarchswoborders.bsky.social",
+      "aoc.bsky.social",
+      "askdinadoll.bsky.social",
+      "bmeiselas.bsky.social",
+      "bostonbrian.com",
+      "bsky.app",
+      "buffer.com",
+      "coachdspeaks.bsky.social",
+      "courtacctability.bsky.social",
+      "davearonberg.bsky.social",
+      "drhaydeebrown.bsky.social",
+      "fiveminutenews.bsky.social",
+      "fpwellman.bsky.social",
+      "ftm.nl",
+      "fuzzygroup.bsky.social",
+      "harrylitman.bsky.social",
+      "iamgabesanchez.bsky.social",
+      "jasonkander.bsky.social",
+      "jeremy8.bsky.social",
+      "katiephang.bsky.social",
+      "keeptroyblue.bsky.social",
+      "keithedwards.bsky.social",
+      "kfa-legal.bsky.social",
       "krystalball.bsky.social",
       "kylekulinskishow.bsky.social",
+      "kyleshivers.bsky.social",
+      "leavingmaga.org",
+      "legalafmtn.bsky.social",
+      "lynnf.bsky.social",
+      "majorityreport.bsky.social",
+      "mehdirhasan.bsky.social",
+      "meidascanada.ca",
+      "meidasjordy.bsky.social",
+      "meidaskiesha.bsky.social",
       "meidastouch.com",
-      "aoc.bsky.social",
-      "zohrankmamdani.bsky.social",
-      "sanders.senate.gov",
-      "opensecrets.org",
-      "ftm.nl",
+      "meiselasb.bsky.social",
+      "michaelcohen212.bsky.social",
+      "mikesacks.bsky.social",
       "moveon.org",
-      "actblueorg.bsky.social",
-      "bsky.app"
+      "mspopok.bsky.social",
+      "opensecrets.org",
+      "patriottakes.bsky.social",
+      "polialert.bsky.social",
+      "politicsgirl.bsky.social",
+      "pollitifydev.bsky.social",
+      "realtexaspaul.com",
+      "ronfilipkowski.bsky.social",
+      "salty.bsky.social",
+      "sanders.senate.gov",
+      "shanlonwu.com",
+      "sonyasloanmd.bsky.social",
+      "suricrowe.bsky.social",
+      "taelar.bsky.social",
+      "tempestori.bsky.social",
+      "theanthonydavis.bsky.social",
+      "thekenharbaughshow.bsky.social",
+      "thelisagraves.bsky.social",
+      "tnbrando.bsky.social",
+      "unicornriot.bsky.social",
+      "vinguptamd.bsky.social",
+      "wright.wiki",
+      "zeteo.com",
+      "zohrankmamdani.bsky.social"
     ],
     "linked_from": "taelar.bsky.social"
   },
   "pollitifydev.bsky.social": {
-    "did": "did:plc:fnhik3uhozsheejks5wuj4qs",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "progressivevoices.bsky.social": {
-    "did": "did:plc:s3hcb3y5thw4mx6vgb543dfy",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "rawerner.bsky.social": {
-    "did": "did:plc:3ebmnqnbahcimm4ol2ptfuww",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "realgdt.bsky.social": {
-    "did": "did:plc:xuotk5nxqcwssa6gtuo3byzh",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "realgregjack.bsky.social": {
-    "did": "did:plc:h2uuj2pmdxfjgvnncxqtmabt",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "realtexaspaul.com": {
-    "did": "did:plc:v5zpzo2nqzjysbjdocyuxerv",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "resistancerangers.altgov.info": {
-    "did": "did:plc:vjtvudcquw5jfkzbsos4fhkx",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "rinsnonsense.bsky.social": {
-    "did": "did:plc:gkqd6b34tynszul5vp4mvscu",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "rjk9.bsky.social": {
-    "did": "did:plc:qet4zxwpcmxvlz4jo4iz3gxd",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "rmtbc.bsky.social": {
-    "did": "did:plc:zlr6kmqkkt76nurzxbwngqkg",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "rockharp.bsky.social": {
-    "did": "did:plc:em5umqxeedua7wlhwtpuzncf",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "roguenoaa.altgov.info": {
-    "did": "did:plc:svj34lrorqjpxlgrcwo4blua",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "ronfilipkowski.bsky.social": {
-    "did": "did:plc:t6ubj2wlhc34awzcymh3qpur",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "rosegarden54.bsky.social": {
-    "did": "did:plc:rxa6ikgetmq3eq5iysvw7wdp",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "ryannosaurus.bsky.social": {
-    "did": "did:plc:lykknndc5x6kpb7blustwfo5",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "salty.bsky.social": {
-    "did": "did:plc:as4xghni6kubhbcwh4d5j2u7",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "sanders.senate.gov": {
-    "did": "did:plc:upw5n2uwhzubjajdtqaufsek",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "sandyfritz.bsky.social": {
-    "did": "did:plc:p5sai3vrpemwwlptsjxdn75t",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "shanlonwu.com": {
-    "did": "did:plc:vh5kse66fwzwewvqfhdaqqfl",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "sharialdrich.bsky.social": {
-    "did": "did:plc:sqj2xacdjc5eo64rxddkp7vd",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "shieldaig.bsky.social": {
-    "did": "did:plc:kjgqguyixdopufib3v276l7x",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "smashit.bsky.social": {
-    "did": "did:plc:gfiml2wco462zl7nn4jvtuvf",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "softtail65.bsky.social": {
-    "did": "did:plc:hhleck4pj4cl2dpuuncpzlg7",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "sonyasloanmd.bsky.social": {
-    "did": "did:plc:rlrt6lbt2rfaa46iv5o7wvr5",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "stumora.bsky.social": {
-    "did": "did:plc:ta2ma65pj5rmfna3wgd7uq4j",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "suricrowe.bsky.social": {
-    "did": "did:plc:fupzzlshbjolkyy2fdlf7swu",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "susanreed.bsky.social": {
-    "did": "did:plc:aq6ung6dvl3kwirrz5mp5mqe",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "taelar.bsky.social": {
-    "did": "did:plc:uzikjaqrisrv5vzgguhwxgvx",
     "following": [
-      "mtfoundation.bsky.social",
-      "jacksoncdp-in.bsky.social",
-      "pollitify.bsky.social",
-      "phunkinpunk.bsky.social",
-      "duckworth.senate.gov",
-      "carson.house.gov",
-      "brcremer.bsky.social",
-      "govandybeshear.bsky.social",
-      "govpritzker.illinois.gov",
-      "rockharp.bsky.social",
+      "aclu.org",
       "acluindiana.bsky.social",
+      "altnps.bsky.social",
+      "aoc.bsky.social",
+      "brcremer.bsky.social",
+      "bsky.app",
+      "carson.house.gov",
+      "crockett.house.gov",
+      "dgl101.bsky.social",
+      "duckworth.senate.gov",
       "everydayactivist.bsky.social",
-      "progressivevoices.bsky.social",
-      "indivisible.org",
-      "joncooper-us.bsky.social",
-      "leahgreenberg.bsky.social",
       "ezralevin.bsky.social",
       "georgetakei.bsky.social",
-      "altnps.bsky.social",
-      "youranoncentral.bsky.social",
-      "npr.org",
+      "govandybeshear.bsky.social",
+      "govpritzker.illinois.gov",
       "hcrichardson.bsky.social",
-      "aclu.org",
       "indiananastywomen.bsky.social",
-      "petebuttigieg.bsky.social",
-      "sanders.senate.gov",
-      "crockett.house.gov",
-      "thewhiteraven414.bsky.social",
-      "dgl101.bsky.social",
-      "oroburroughs.bsky.social",
+      "indivisible.org",
       "indy50501.bsky.social",
-      "thelauvmachine.bsky.social",
-      "rinsnonsense.bsky.social",
-      "temperatehorizon.bsky.social",
+      "jacksoncdp-in.bsky.social",
+      "joncooper-us.bsky.social",
+      "leahgreenberg.bsky.social",
+      "mtfoundation.bsky.social",
+      "npr.org",
+      "oroburroughs.bsky.social",
       "ouijagirl.bsky.social",
-      "aoc.bsky.social",
-      "bsky.app"
+      "petebuttigieg.bsky.social",
+      "phunkinpunk.bsky.social",
+      "pollitify.bsky.social",
+      "progressivevoices.bsky.social",
+      "rinsnonsense.bsky.social",
+      "rockharp.bsky.social",
+      "sanders.senate.gov",
+      "temperatehorizon.bsky.social",
+      "thelauvmachine.bsky.social",
+      "thewhiteraven414.bsky.social",
+      "youranoncentral.bsky.social"
     ],
-    "linked_from": "pollitify.bsky.social"
+    "linked_from": ""
   },
   "tamranger.bsky.social": {
-    "did": "did:plc:2d6yafsx64mcchevdznjqhnw",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "tazornissen.bsky.social": {
-    "did": "did:plc:zkrkzblrvziuzoava2kif2ri",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "temperatehorizon.bsky.social": {
-    "did": "did:plc:uhhvwkm2ifaw5lj5qt2vwhxz",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "tempestori.bsky.social": {
-    "did": "did:plc:czz2rgfcntxemsbd6iqoj3pb",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "textkittycat.bsky.social": {
-    "did": "did:plc:agxnd5j5jenymfyhcpfgo6yr",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "theanthonydavis.bsky.social": {
-    "did": "did:plc:qkcakhuiz74uvkmge2ae3xcm",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "thekenharbaughshow.bsky.social": {
-    "did": "did:plc:l6n4fqw7kbkepwnqsjnszjht",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "thelauvmachine.bsky.social": {
-    "did": "did:plc:o7mk2xqxdwu3sfiq2ecmiagd",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "thelisagraves.bsky.social": {
-    "did": "did:plc:tjs4o4p23zdi5d4fmtmhxfs6",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "therealdig.bsky.social": {
-    "did": "did:plc:i6qlkdvt35k2dmbsflx3f4e6",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "thewhiteraven414.bsky.social": {
-    "did": "did:plc:lk2fpztpkeurizllmk2pp3d6",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "timherb.bsky.social": {
-    "did": "did:plc:yiijrcg5nagk2ghzls5vzzbu",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "tnbrando.bsky.social": {
-    "did": "did:plc:peycbmseeq7loh63az3dubw6",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "ultra-happy-dude.bsky.social": {
-    "did": "did:plc:vqheddpggmve3gcch3ckow32",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "unicornriot.bsky.social": {
-    "did": "did:plc:yun5yzvbtyt6oge4h35rg2jd",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "vermontgmg.bsky.social": {
-    "did": "did:plc:anyesr57bwobytddoohv6ehe",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "vinguptamd.bsky.social": {
-    "did": "did:plc:ytftbcb536hltk5wwnscnc54",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "wfiuwtiunews.bsky.social": {
-    "did": "did:plc:e33vu66lder3opn2nouekw7a",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "who-is-this-is.bsky.social": {
-    "did": "did:plc:dn7jvupcvbbi6pvrivgmmsv4",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "willhatesfascists.bsky.social": {
-    "did": "did:plc:2qz3j6o4dm4pddpatyprrs34",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "wishtv.com": {
-    "did": "did:plc:55hgu6rzcfky7dmrgmntl37k",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "womensartbluesky.bsky.social": {
-    "did": "did:plc:u2zs2typsklaohqmfyxiunvy",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "woodenstares.bsky.social": {
-    "did": "did:plc:ftci5xvagtcm4dec2equhj35",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "wright.wiki": {
-    "did": "did:plc:eipmije3yuyrlcjkux6u3ips",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "wthrcom.bsky.social": {
-    "did": "did:plc:wwhmndl2olen4vnyu2nmkl6y",
     "following": [],
     "linked_from": "jacksoncdp-in.bsky.social"
   },
   "xjeign.bsky.social": {
-    "did": "did:plc:vhrdnqeh2djykmdmalh3fxwx",
     "following": [],
     "linked_from": "mtfoundation.bsky.social"
   },
   "ylepidemiologist.bsky.social": {
-    "did": "did:plc:r7phej4vfn2eqjo6o777vkz2",
     "following": [],
     "linked_from": "phunkinpunk.bsky.social"
   },
   "youranoncentral.bsky.social": {
-    "did": "did:plc:mxc7liuon6iq5gzapmmwkq22",
     "following": [],
     "linked_from": "taelar.bsky.social"
   },
   "zeteo.com": {
-    "did": "did:plc:554uh3zchoid3tyseo2mfml5",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   },
   "zohrankmamdani.bsky.social": {
-    "did": "did:plc:j5hrotody26iqi24hcusufxu",
     "following": [],
     "linked_from": "pollitify.bsky.social"
   }

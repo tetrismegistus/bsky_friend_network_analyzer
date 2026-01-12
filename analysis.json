@@ -1,0 +1,630 @@
+{
+  "summary": {
+    "nodes": 201,
+    "edges": 208,
+    "reciprocal_pairs": 1
+  },
+  "top_in_degree": [
+    {
+      "node": "bsky.app",
+      "in_degree": 4
+    },
+    {
+      "node": "aoc.bsky.social",
+      "in_degree": 2
+    },
+    {
+      "node": "sanders.senate.gov",
+      "in_degree": 2
+    },
+    {
+      "node": "altnps.bsky.social",
+      "in_degree": 2
+    },
+    {
+      "node": "carson.house.gov",
+      "in_degree": 2
+    },
+    {
+      "node": "junesongbird.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "brcremer.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "indianacapitalchronicle.com",
+      "in_degree": 1
+    },
+    {
+      "node": "susanreed.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "kfa-legal.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "sandyfritz.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "nairadc.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "rinsnonsense.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "roguenoaa.altgov.info",
+      "in_degree": 1
+    },
+    {
+      "node": "meidasjordy.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "durelleth.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "ronfilipkowski.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "fuzzygroup.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "wfiuwtiunews.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "meiselasb.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "georgetakei.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "mspopok.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "mtfoundation.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "davearonberg.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "keithedwards.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "harrylitman.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "polialert.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "petebuttigieg.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "corinnemsb.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "alexaronson.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "indiananastywomen.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "majorityreport.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "vermontgmg.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "mehdirhasan.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "npr.org",
+      "in_degree": 1
+    },
+    {
+      "node": "healwell.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "taelar.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "zohrankmamdani.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "mimicrochets.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "cre8tve1.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "tazornissen.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "tamranger.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "pollitifydev.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "fiveminutenews.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "leavingmaga.org",
+      "in_degree": 1
+    },
+    {
+      "node": "ylepidemiologist.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "stumora.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "acluindiana.bsky.social",
+      "in_degree": 1
+    },
+    {
+      "node": "madhouser.altgov.info",
+      "in_degree": 1
+    },
+    {
+      "node": "meidastouch.com",
+      "in_degree": 1
+    }
+  ],
+  "top_out_degree": [
+    {
+      "node": "pollitify.bsky.social",
+      "out_degree": 71
+    },
+    {
+      "node": "phunkinpunk.bsky.social",
+      "out_degree": 63
+    },
+    {
+      "node": "taelar.bsky.social",
+      "out_degree": 37
+    },
+    {
+      "node": "jacksoncdp-in.bsky.social",
+      "out_degree": 26
+    },
+    {
+      "node": "mtfoundation.bsky.social",
+      "out_degree": 11
+    },
+    {
+      "node": "junesongbird.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "brcremer.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "indianacapitalchronicle.com",
+      "out_degree": 0
+    },
+    {
+      "node": "susanreed.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "kfa-legal.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "sandyfritz.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "nairadc.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "rinsnonsense.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "roguenoaa.altgov.info",
+      "out_degree": 0
+    },
+    {
+      "node": "meidasjordy.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "durelleth.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "ronfilipkowski.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "fuzzygroup.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "wfiuwtiunews.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "meiselasb.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "georgetakei.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "mspopok.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "davearonberg.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "keithedwards.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "aoc.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "sanders.senate.gov",
+      "out_degree": 0
+    },
+    {
+      "node": "harrylitman.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "polialert.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "petebuttigieg.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "corinnemsb.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "alexaronson.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "indiananastywomen.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "majorityreport.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "vermontgmg.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "mehdirhasan.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "npr.org",
+      "out_degree": 0
+    },
+    {
+      "node": "healwell.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "zohrankmamdani.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "mimicrochets.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "cre8tve1.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "altnps.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "tazornissen.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "tamranger.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "pollitifydev.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "fiveminutenews.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "leavingmaga.org",
+      "out_degree": 0
+    },
+    {
+      "node": "ylepidemiologist.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "stumora.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "acluindiana.bsky.social",
+      "out_degree": 0
+    },
+    {
+      "node": "madhouser.altgov.info",
+      "out_degree": 0
+    }
+  ],
+  "top_reciprocals": [
+    {
+      "a": "taelar.bsky.social",
+      "b": "pollitify.bsky.social",
+      "score": 2
+    }
+  ],
+  "top_cofollow_pairs": [],
+  "top_bridges_betweenness": [
+    {
+      "node": "taelar.bsky.social",
+      "betweenness": 0.0032574934976389485
+    },
+    {
+      "node": "phunkinpunk.bsky.social",
+      "betweenness": 0.0031817378349031588
+    },
+    {
+      "node": "pollitify.bsky.social",
+      "betweenness": 0.0016666245801873689
+    },
+    {
+      "node": "jacksoncdp-in.bsky.social",
+      "betweenness": 0.001212090603772632
+    },
+    {
+      "node": "mtfoundation.bsky.social",
+      "betweenness": 0.00050503775157193
+    },
+    {
+      "node": "junesongbird.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "brcremer.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "indianacapitalchronicle.com",
+      "betweenness": 0.0
+    },
+    {
+      "node": "susanreed.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "kfa-legal.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "sandyfritz.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "nairadc.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "rinsnonsense.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "roguenoaa.altgov.info",
+      "betweenness": 0.0
+    },
+    {
+      "node": "meidasjordy.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "durelleth.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "ronfilipkowski.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "fuzzygroup.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "wfiuwtiunews.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "meiselasb.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "georgetakei.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "mspopok.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "davearonberg.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "keithedwards.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "aoc.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "sanders.senate.gov",
+      "betweenness": 0.0
+    },
+    {
+      "node": "harrylitman.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "polialert.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "petebuttigieg.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "corinnemsb.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "alexaronson.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "indiananastywomen.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "majorityreport.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "vermontgmg.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "mehdirhasan.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "npr.org",
+      "betweenness": 0.0
+    },
+    {
+      "node": "healwell.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "zohrankmamdani.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "mimicrochets.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "cre8tve1.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "altnps.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "tazornissen.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "tamranger.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "pollitifydev.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "fiveminutenews.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "leavingmaga.org",
+      "betweenness": 0.0
+    },
+    {
+      "node": "ylepidemiologist.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "stumora.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "acluindiana.bsky.social",
+      "betweenness": 0.0
+    },
+    {
+      "node": "madhouser.altgov.info",
+      "betweenness": 0.0
+    }
+  ],
+  "top_strongly_connected_components": [
+    {
+      "size": 2,
+      "nodes": [
+        "pollitify.bsky.social",
+        "taelar.bsky.social"
+      ]
+    }
+  ]
+}
